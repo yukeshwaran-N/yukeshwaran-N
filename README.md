@@ -16,7 +16,7 @@
     <!-- Left Side: About Text -->
     <td style="width: 70%; vertical-align: top;">
       <h1>Hi there 👋</h1>
-      I'm <b>Yukeshwaran N</b>, a hacker & Security Researcher and aspiring Cybersecurity Specialist.<br><br>
+    I'm <b><a href="https://instagram.com/ily_yuki_" target="_blank" style="text-decoration: none; color: inherit;">Yukeshwaran N</a></b>, also known as <b>Digital Horcrux</b>, a hacker & Security Researcher and aspiring Cybersecurity Specialist.<br><br>
       With a strong passion for web security and expertise in bug bounty, vulnerability assessment, and system hardening, my goal is to safeguard digital assets and contribute to a secure cyber world.<br><br>
       <details>
         <summary>🔍 More about me</summary>
@@ -39,7 +39,7 @@
 ---
 
 
-<h2>Present Status</h2>
+<h2>🚀Present Status</h2>
 
 <img align="right" src="https://github.com/user-attachments/assets/f209d8f0-4f63-48ec-81a3-8eaf1c846bf8" width="300" alt="Hacker Icon" />
 
@@ -129,13 +129,24 @@
 
 ### 🔗 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/yukeshwaran-n-4b170b247/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Yukeshwaran-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> </a>
-<br>
+    <img src="https://img.shields.io/badge/LinkedIn-Yukeshwaran-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <br>  <br>
 
   <a href="mailto:yukeshwaranreva@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-yukeshwaranreva@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+  <br>  <br>
+
+  <a href="https://medium.com/@Yukeshwaran-N" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Yukeshwaran_N-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" />
+  </a>
+  <br>  <br>
+
+  <a href="https://instagram.com/ily_yuki_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-ily__yuki__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
 </p>
 
