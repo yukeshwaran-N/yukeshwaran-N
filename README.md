@@ -1,53 +1,40 @@
-<h1 align="center">Hi there 👋, I'm Yukeshwaran N</h1>
-<h3 align="center">a.k.a. <b>Digital Horcrux</b> 🧠 | Bug Bounty Hunter | Ethical Hacker | M.Tech CSE Student</h3>
+<h1 align="center">Hi there 👋, I'm <span style="color:#00FF00">Digital Horcrux</span></h1>
+<h3 align="center">Ethical Hacker | Bug Bounty Hunter | Security Researcher | M.Tech CSE</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/cNfIqJPVs6X1y/giphy.gif" width="300" alt="hacker gif">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmM0ZW1rc3huNjMwcGEwOWY0cnJ0OG9wenA4ODVxdTExYnVsNmpseSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3og0ILLVvPp8d64Jd6/giphy.gif" width="300" />
 </p>
 
 ---
 
-### 🔐 About Me
-🚀 Passionate about breaking and securing things on the web  
-🎓 M.Tech CSE @ Erode Sengunthar Engineering College  
-🧠 Known in the cybersecurity community as **Digital Horcrux**  
-🔍 Ethical Hacking Intern @ Astraeus Next Gen Pvt Ltd  
-🛡️ Reported vulnerabilities in top-tier orgs:  
-> NASA, ISRO, Mercedes-Benz, Nothing (India), KSRTC, University of Oslo
+### 🧠 About Me
+
+I’m Yukeshwaran N — known as **Digital Horcrux** in the cybersecurity world.  
+A passionate hacker breaking systems to make the web a safer place.
+
+- 🧑‍🎓 M.Tech CSE @ Erode Sengunthar Engineering College  
+- 🔐 Ethical Hacking Intern @ Astraeus Next Gen Pvt Ltd  
+- 🐞 Bug Bounty Hunter & Security Researcher  
+- 🛰️ Reported vulnerabilities in: **NASA**, **ISRO**, **Mercedes-Benz**, **Nothing India**, **KSRTC**, **University of Oslo**  
+- 👣 Found on: Bugcrowd, TryHackMe, LinkedIn
 
 ---
 
-### 🧰 Tech & Tools
+### ⚙️ Currently Working On
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="250" alt="code gif">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="250" alt="terminal hacker gif">
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yukesh-yukii&show_icons=true&theme=radical" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukesh-yukii&layout=compact&theme=radical" />
-</p>
+- ☠️ Bug Hunting & Recon Scripts  
+- 📱 SecuQR – QR Based Secure Auth System  
+- 🧪 PhishShield – AI Phishing Detection  
+- 📊 ModusMapping – Crime Data Intelligence Tool  
+- 🧬 Data Generation for Human-Wildlife Conflict Detection
 
 ---
 
-### 🔗 Connect With Me
+### 🛠️ Tools & Skills
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yukeshwaran-n/"><img src="https://img.shields.io/badge/LinkedIn-DigitalHorcrux-blue?logo=linkedin" /></a>
-  <a href="mailto:damnyuki07@gmail.com"><img src="https://img.shields.io/badge/Email-damnyuki07@gmail.com-red?logo=gmail" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/kH8nG7nFwKxL1fJ2a5/giphy.gif" width="300" alt="cyber gif" />
-</p>
-
-> _"Turning bugs into badges. Every vulnerability is a chance to learn."_  
-> — **Digital Horcrux**
+```bash
+Languages   : Python, JavaScript, Bash, HTML, CSS, SQL
+Pentesting  : Burp Suite, Nmap, OWASP ZAP, Wireshark
+Platforms   : Linux, Kali, Parrot OS, GitHub, Bugcrowd
+Frameworks  : Flask, Node.js, React.js, Tailwind, MySQL
+Others      : VS Code, Postman, Metasploit, Docker
